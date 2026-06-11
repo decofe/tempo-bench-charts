@@ -1,0 +1,38 @@
+[
+  {
+    "file": "block_time_scatter.png",
+    "label": "Block Time Scatter"
+  },
+  {
+    "file": "serialized_block_size_per_tx_scatter.png",
+    "label": "Serialized Block Size per Transaction Scatter"
+  },
+  {
+    "file": "builder_latency_scatter.png",
+    "label": "Builder Latency Scatter"
+  },
+  {
+    "file": "builder_finish_scatter.png",
+    "label": "Builder Finish Scatter"
+  },
+  {
+    "file": "builder_pool_fetch_scatter.png",
+    "label": "Builder Pool Fetch Scatter"
+  },
+  {
+    "file": "builder_invalid_tx_execution_attempts_scatter.png",
+    "label": "Builder Invalid Tx Attempts Scatter"
+  },
+  {
+    "file": "serialized_block_size_scatter.png",
+    "label": "Serialized Block Size Scatter"
+  },
+  {
+    "file": "builder_fill_idle_scatter.png",
+    "label": "Builder Fill Idle Scatter"
+  },
+  {
+    "file": "validation_latency_scatter.png",
+    "label": "Validation Latency Scatter"
+  }
+]
