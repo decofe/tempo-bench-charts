@@ -1,0 +1,122 @@
+[
+  {
+    "file": "block_time_scatter.png",
+    "label": "Block Time Scatter"
+  },
+  {
+    "file": "block_time_baseline_distribution.png",
+    "label": "Block Time Baseline Distribution"
+  },
+  {
+    "file": "block_time_feature_distribution.png",
+    "label": "Block Time Feature Distribution"
+  },
+  {
+    "file": "serialized_block_size_per_tx_scatter.png",
+    "label": "Serialized Block Size per Transaction Scatter"
+  },
+  {
+    "file": "serialized_block_size_per_tx_baseline_distribution.png",
+    "label": "Serialized Block Size per Transaction Baseline Distribution"
+  },
+  {
+    "file": "serialized_block_size_per_tx_feature_distribution.png",
+    "label": "Serialized Block Size per Transaction Feature Distribution"
+  },
+  {
+    "file": "block_tx_count_scatter.png",
+    "label": "Transactions per Block Scatter"
+  },
+  {
+    "file": "block_tx_count_baseline_distribution.png",
+    "label": "Transactions per Block Baseline Distribution"
+  },
+  {
+    "file": "block_tx_count_feature_distribution.png",
+    "label": "Transactions per Block Feature Distribution"
+  },
+  {
+    "file": "builder_latency_scatter.png",
+    "label": "Builder Latency Scatter"
+  },
+  {
+    "file": "builder_latency_baseline_distribution.png",
+    "label": "Builder Latency Baseline Distribution"
+  },
+  {
+    "file": "builder_latency_feature_distribution.png",
+    "label": "Builder Latency Feature Distribution"
+  },
+  {
+    "file": "builder_finish_scatter.png",
+    "label": "Builder Finish Scatter"
+  },
+  {
+    "file": "builder_finish_baseline_distribution.png",
+    "label": "Builder Finish Baseline Distribution"
+  },
+  {
+    "file": "builder_finish_feature_distribution.png",
+    "label": "Builder Finish Feature Distribution"
+  },
+  {
+    "file": "builder_pool_fetch_scatter.png",
+    "label": "Builder Pool Fetch Scatter"
+  },
+  {
+    "file": "builder_pool_fetch_baseline_distribution.png",
+    "label": "Builder Pool Fetch Baseline Distribution"
+  },
+  {
+    "file": "builder_pool_fetch_feature_distribution.png",
+    "label": "Builder Pool Fetch Feature Distribution"
+  },
+  {
+    "file": "builder_invalid_tx_execution_attempts_scatter.png",
+    "label": "Builder Invalid Tx Attempts Scatter"
+  },
+  {
+    "file": "builder_invalid_tx_execution_attempts_baseline_distribution.png",
+    "label": "Builder Invalid Tx Attempts Baseline Distribution"
+  },
+  {
+    "file": "builder_invalid_tx_execution_attempts_feature_distribution.png",
+    "label": "Builder Invalid Tx Attempts Feature Distribution"
+  },
+  {
+    "file": "serialized_block_size_scatter.png",
+    "label": "Serialized Block Size Scatter"
+  },
+  {
+    "file": "serialized_block_size_baseline_distribution.png",
+    "label": "Serialized Block Size Baseline Distribution"
+  },
+  {
+    "file": "serialized_block_size_feature_distribution.png",
+    "label": "Serialized Block Size Feature Distribution"
+  },
+  {
+    "file": "builder_fill_idle_scatter.png",
+    "label": "Builder Fill Idle Scatter"
+  },
+  {
+    "file": "builder_fill_idle_baseline_distribution.png",
+    "label": "Builder Fill Idle Baseline Distribution"
+  },
+  {
+    "file": "builder_fill_idle_feature_distribution.png",
+    "label": "Builder Fill Idle Feature Distribution"
+  },
+  {
+    "file": "validation_latency_scatter.png",
+    "label": "Validation Latency Scatter"
+  },
+  {
+    "file": "validation_latency_baseline_distribution.png",
+    "label": "Validation Latency Baseline Distribution"
+  },
+  {
+    "file": "validation_latency_feature_distribution.png",
+    "label": "Validation Latency Feature Distribution"
+  }
+]
